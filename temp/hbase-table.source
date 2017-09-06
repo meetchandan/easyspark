@@ -1,0 +1,8 @@
+{
+  "scan" : {
+    "scan.columns" : "data:name data:address",
+    "zookeeper" : "abc@net.com"
+  }
+
+  
+}
